@@ -1,0 +1,1059 @@
+﻿INFO:  haciendo vacuum a «pg_catalog.pg_statistic»
+INFO:  el índice «pg_statistic_relid_att_inh_index» ahora contiene 486 versiones de filas en 5 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_statistic»: se encontraron 0 versiones de filas eliminables y 486 no eliminables en 31 de 31 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 342 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2619»
+INFO:  se recorrió el índice «pg_toast_2619_index» para eliminar 21 versiones de filas
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2619»: se eliminaron 21 versiones de filas en 7 páginas
+DETALLE:  CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_toast_2619_index» ahora contiene 21 versiones de filas en 2 páginas
+DETALLE:  21 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2619»: se encontraron 21 versiones de filas eliminables y 21 no eliminables en 8 de 8 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 2 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_type»
+INFO:  el índice «pg_type_oid_index» ahora contiene 383 versiones de filas en 4 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_type_typname_nsp_index» ahora contiene 383 versiones de filas en 5 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_type»: se encontraron 0 versiones de filas eliminables y 383 no eliminables en 9 de 9 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 45 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_authid»
+INFO:  el índice «pg_authid_rolname_index» ahora contiene 6 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_authid_oid_index» ahora contiene 6 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_authid»: se encontraron 0 versiones de filas eliminables y 6 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 1 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_attribute»
+INFO:  el índice «pg_attribute_relid_attnam_index» ahora contiene 2672 versiones de filas en 17 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+3 páginas de índice han sido eliminadas, 3 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_attribute_relid_attnum_index» ahora contiene 2672 versiones de filas en 11 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+1 páginas de índice han sido eliminadas, 1 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_attribute»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 50 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_proc»
+INFO:  el índice «pg_proc_oid_index» ahora contiene 2685 versiones de filas en 10 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_proc_proname_args_nsp_index» ahora contiene 2685 versiones de filas en 26 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_proc»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 67 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_1255»
+INFO:  el índice «pg_toast_1255_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_1255»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_user_mapping»
+INFO:  el índice «pg_user_mapping_oid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_user_mapping_user_server_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_user_mapping»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_attrdef»
+INFO:  el índice «pg_attrdef_adrelid_adnum_index» ahora contiene 10 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_attrdef_oid_index» ahora contiene 10 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_attrdef»: se encontraron 0 versiones de filas eliminables y 10 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2604»
+INFO:  el índice «pg_toast_2604_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+
+INFO:  «pg_toast_2604»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_constraint»
+INFO:  el índice «pg_constraint_conname_nsp_index» ahora contiene 24 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_constraint_conrelid_index» ahora contiene 24 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_constraint_contypid_index» ahora contiene 24 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_constraint_oid_index» ahora contiene 24 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_constraint»: se encontraron 0 versiones de filas eliminables y 24 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2606»
+INFO:  el índice «pg_toast_2606_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2606»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+
+INFO:  haciendo vacuum a «pg_catalog.pg_index»
+INFO:  el índice «pg_index_indrelid_index» ahora contiene 128 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_index_indexrelid_index» ahora contiene 128 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_index»: se encontraron 0 versiones de filas eliminables y 128 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 1 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_operator»
+INFO:  el índice «pg_operator_oid_index» ahora contiene 765 versiones de filas en 5 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_operator_oprname_l_r_n_index» ahora contiene 765 versiones de filas en 5 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_operator»: se encontraron 0 versiones de filas eliminables y 765 no eliminables en 14 de 14 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_opfamily»
+INFO:  el índice «pg_opfamily_am_name_nsp_index» ahora contiene 86 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_opfamily_oid_index» ahora contiene 86 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_opfamily»: se encontraron 0 versiones de filas eliminables y 86 no eliminables en 2 de 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_opclass»
+INFO:  el índice «pg_opclass_am_name_nsp_index» ahora contiene 128 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_opclass_oid_index» ahora contiene 128 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_opclass»: se encontraron 0 versiones de filas eliminables y 128 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_am»
+INFO:  el índice «pg_am_name_index» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_am_oid_index» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_am»: se encontraron 0 versiones de filas eliminables y 5 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_amop»
+INFO:  el índice «pg_amop_fam_strat_index» ahora contiene 436 versiones de filas en 4 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_amop_opr_fam_index» ahora contiene 436 versiones de filas en 4 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_amop_oid_index» ahora contiene 436 versiones de filas en 4 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_amop»: se encontraron 0 versiones de filas eliminables y 436 no eliminables en 4 de 4 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_amproc»
+INFO:  el índice «pg_amproc_fam_proc_index» ahora contiene 344 versiones de filas en 4 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_amproc_oid_index» ahora contiene 344 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_amproc»: se encontraron 0 versiones de filas eliminables y 344 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_language»
+INFO:  el índice «pg_language_name_index» ahora contiene 4 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_language_oid_index» ahora contiene 4 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_language»: se encontraron 0 versiones de filas eliminables y 4 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_database»
+INFO:  el índice «pg_database_datname_index» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_database_oid_index» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_database»: se encontraron 0 versiones de filas eliminables y 5 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 3 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_aggregate»
+INFO:  el índice «pg_aggregate_fnoid_index» ahora contiene 133 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_aggregate»: se encontraron 0 versiones de filas eliminables y 133 no eliminables en 2 de 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_rewrite»
+INFO:  el índice «pg_rewrite_oid_index» ahora contiene 113 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_rewrite_rel_rulename_index» ahora contiene 113 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_rewrite»: se encontraron 0 versiones de filas eliminables y 113 no eliminables en 11 de 11 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2618»
+INFO:  el índice «pg_toast_2618_index» ahora contiene 193 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2618»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 44 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_trigger»
+INFO:  el índice «pg_trigger_tgconstraint_index» ahora contiene 44 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_trigger_tgrelid_tgname_index» ahora contiene 44 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_trigger_oid_index» ahora contiene 44 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_trigger»: se encontraron 0 versiones de filas eliminables y 44 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2620»
+INFO:  el índice «pg_toast_2620_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2620»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_event_trigger»
+INFO:  el índice «pg_event_trigger_evtname_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_event_trigger_oid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_event_trigger»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_description»
+INFO:  el índice «pg_description_o_c_o_index» ahora contiene 3686 versiones de filas en 17 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_description»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 32 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2609»
+INFO:  el índice «pg_toast_2609_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2609»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_cast»
+INFO:  el índice «pg_cast_oid_index» ahora contiene 198 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_cast_source_target_index» ahora contiene 198 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_cast»: se encontraron 0 versiones de filas eliminables y 198 no eliminables en 2 de 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_enum»
+INFO:  el índice «pg_enum_oid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_enum_typid_label_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_enum_typid_sortorder_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_enum»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_namespace»
+INFO:  el índice «pg_namespace_nspname_index» ahora contiene 6 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_namespace_oid_index» ahora contiene 6 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_namespace»: se encontraron 0 versiones de filas eliminables y 6 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 3 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_conversion»
+INFO:  el índice «pg_conversion_default_index» ahora contiene 132 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_conversion_name_nsp_index» ahora contiene 132 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_conversion_oid_index» ahora contiene 132 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_conversion»: se encontraron 0 versiones de filas eliminables y 132 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_depend»
+INFO:  el índice «pg_depend_depender_index» ahora contiene 6831 versiones de filas en 30 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_depend_reference_index» ahora contiene 6831 versiones de filas en 30 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_depend»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 51 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_db_role_setting»
+INFO:  el índice «pg_db_role_setting_databaseid_rol_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_db_role_setting»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2964»
+INFO:  el índice «pg_toast_2964_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2964»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_tablespace»
+INFO:  el índice «pg_tablespace_oid_index» ahora contiene 2 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_tablespace_spcname_index» ahora contiene 2 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_tablespace»: se encontraron 0 versiones de filas eliminables y 2 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_pltemplate»
+INFO:  el índice «pg_pltemplate_name_index» ahora contiene 8 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_pltemplate»: se encontraron 0 versiones de filas eliminables y 8 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_auth_members»
+INFO:  el índice «pg_auth_members_role_member_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_auth_members_member_role_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_auth_members»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_shdepend»
+INFO:  el índice «pg_shdepend_depender_index» ahora contiene 106 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_shdepend_reference_index» ahora contiene 106 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_shdepend»: se encontraron 0 versiones de filas eliminables y 106 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 25 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_shdescription»
+INFO:  el índice «pg_shdescription_o_c_index» ahora contiene 3 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_shdescription»: se encontraron 0 versiones de filas eliminables y 3 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_2396»
+INFO:  el índice «pg_toast_2396_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_2396»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_config»
+INFO:  el índice «pg_ts_config_cfgname_index» ahora contiene 16 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_ts_config_oid_index» ahora contiene 16 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_ts_config»: se encontraron 0 versiones de filas eliminables y 16 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_config_map»
+INFO:  el índice «pg_ts_config_map_index» ahora contiene 304 versiones de filas en 4 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_ts_config_map»: se encontraron 0 versiones de filas eliminables y 304 no eliminables en 2 de 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_dict»
+INFO:  el índice «pg_ts_dict_dictname_index» ahora contiene 16 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_ts_dict_oid_index» ahora contiene 16 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_ts_dict»: se encontraron 0 versiones de filas eliminables y 16 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_parser»
+INFO:  el índice «pg_ts_parser_prsname_index» ahora contiene 1 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_ts_parser_oid_index» ahora contiene 1 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_ts_parser»: se encontraron 0 versiones de filas eliminables y 1 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_ts_template»
+INFO:  el índice «pg_ts_template_tmplname_index» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_ts_template_oid_index» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_ts_template»: se encontraron 0 versiones de filas eliminables y 5 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_extension»
+INFO:  el índice «pg_extension_oid_index» ahora contiene 1 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_extension_name_index» ahora contiene 1 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_extension»: se encontraron 0 versiones de filas eliminables y 1 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_foreign_data_wrapper»
+INFO:  el índice «pg_foreign_data_wrapper_oid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_foreign_data_wrapper_name_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_foreign_data_wrapper»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_foreign_server»
+INFO:  el índice «pg_foreign_server_oid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_foreign_server_name_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_foreign_server»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_foreign_table»
+INFO:  el índice «pg_foreign_table_relid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_foreign_table»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_default_acl»
+INFO:  el índice «pg_default_acl_role_nsp_obj_index» ahora contiene 2 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_default_acl_oid_index» ahora contiene 2 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_default_acl»: se encontraron 0 versiones de filas eliminables y 2 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 1 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_seclabel»
+INFO:  el índice «pg_seclabel_object_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_seclabel»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_3596»
+INFO:  el índice «pg_toast_3596_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_3596»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_shseclabel»
+INFO:  el índice «pg_shseclabel_object_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_shseclabel»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_collation»
+INFO:  el índice «pg_collation_oid_index» ahora contiene 81 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_collation_name_enc_nsp_index» ahora contiene 81 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_collation»: se encontraron 0 versiones de filas eliminables y 81 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_range»
+INFO:  el índice «pg_range_rngtypid_index» ahora contiene 6 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_range»: se encontraron 0 versiones de filas eliminables y 6 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_largeobject»
+INFO:  el índice «pg_largeobject_loid_pn_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_largeobject»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_implementation_info»
+INFO:  «sql_implementation_info»: se encontraron 0 versiones de filas eliminables y 12 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11793»
+INFO:  el índice «pg_toast_11793_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11793»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_languages»
+INFO:  «sql_languages»: se encontraron 0 versiones de filas eliminables y 4 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11798»
+INFO:  el índice «pg_toast_11798_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11798»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_packages»
+INFO:  «sql_packages»: se encontraron 0 versiones de filas eliminables y 10 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11803»
+INFO:  el índice «pg_toast_11803_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11803»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_sizing»
+INFO:  «sql_sizing»: se encontraron 0 versiones de filas eliminables y 23 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11813»
+INFO:  el índice «pg_toast_11813_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11813»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_sizing_profiles»
+INFO:  «sql_sizing_profiles»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11818»
+INFO:  el índice «pg_toast_11818_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11818»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_class»
+INFO:  el índice «pg_class_oid_index» ahora contiene 339 versiones de filas en 5 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_class_relname_nsp_index» ahora contiene 339 versiones de filas en 7 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_class_tblspc_relfilenode_index» ahora contiene 339 versiones de filas en 5 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_class»: se encontraron 0 versiones de filas eliminables y 339 no eliminables en 9 de 9 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 274 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_largeobject_metadata»
+INFO:  el índice «pg_largeobject_metadata_oid_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_largeobject_metadata»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_catalog.pg_inherits»
+INFO:  el índice «pg_inherits_parent_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  el índice «pg_inherits_relid_seqno_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_inherits»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.playlist»
+INFO:  el índice «playlist_pkey» ahora contiene 17 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «playlist»: se encontraron 0 versiones de filas eliminables y 17 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.media_type»
+INFO:  el índice «media_type_pkey» ahora contiene 5 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «media_type»: se encontraron 0 versiones de filas eliminables y 5 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_features»
+INFO:  «sql_features»: se encontraron 0 versiones de filas eliminables y 672 no eliminables en 7 de 7 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11788»
+INFO:  el índice «pg_toast_11788_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11788»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «information_schema.sql_parts»
+INFO:  «sql_parts»: se encontraron 0 versiones de filas eliminables y 9 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_11808»
+INFO:  el índice «pg_toast_11808_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_11808»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.track»
+INFO:  el índice «track_pkey» ahora contiene 2883 versiones de filas en 10 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «track»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 39 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_16799»
+INFO:  el índice «pg_toast_16799_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_16799»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.employee»
+INFO:  el índice «employee_pkey» ahora contiene 8 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «employee»: se encontraron 0 versiones de filas eliminables y 8 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_16760»
+INFO:  el índice «pg_toast_16760_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_16760»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.genre»
+INFO:  el índice «genre_pkey» ahora contiene 25 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «genre»: se encontraron 0 versiones de filas eliminables y 25 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.invoice»
+INFO:  el índice «invoice_pkey» ahora contiene 251 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «invoice»: se encontraron 0 versiones de filas eliminables y 251 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_16773»
+INFO:  el índice «pg_toast_16773_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_16773»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.album»
+INFO:  el índice «album_pkey» ahora contiene 306 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «album»: se encontraron 0 versiones de filas eliminables y 306 no eliminables en 3 de 3 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.invoice_line»
+INFO:  el índice «invoice_line_pkey» ahora contiene 1107 versiones de filas en 6 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «invoice_line»: se encontraron 0 versiones de filas eliminables y 1107 no eliminables en 9 de 9 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.artist»
+INFO:  el índice «artist_pkey» ahora contiene 244 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «artist»: se encontraron 0 versiones de filas eliminables y 244 no eliminables en 2 de 2 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.playlist_track»
+INFO:  el índice «pk_playlist_track» ahora contiene 5941 versiones de filas en 19 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «playlist_track»: se encontraron 0 versiones de filas eliminables y 5941 no eliminables en 27 de 27 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «public.customer»
+INFO:  el índice «customer_pkey» ahora contiene 36 versiones de filas en 2 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «customer»: se encontraron 0 versiones de filas eliminables y 36 no eliminables en 1 de 1 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  haciendo vacuum a «pg_toast.pg_toast_16752»
+INFO:  el índice «pg_toast_16752_index» ahora contiene 0 versiones de filas en 1 páginas
+DETALLE:  0 versiones de filas del índice fueron eliminadas.
+0 páginas de índice han sido eliminadas, 0 son reusables.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  «pg_toast_16752»: se encontraron 0 versiones de filas eliminables y 0 no eliminables en 0 de 0 páginas
+DETALLE:  0 versiones muertas de filas no pueden ser eliminadas aún.
+Hubo 0 punteros de ítem sin uso.
+0 páginas están completamente vacías.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+Total query runtime: 3.1 secs
