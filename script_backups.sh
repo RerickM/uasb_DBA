@@ -14,7 +14,7 @@ if [ $ESPACIO_OCUPADO -le 85 ];
 then
 	for BASE in $BASE
 do
-	mysqldump -u $USER -p$PASS $BASE --opt > $DIR/musicdb_test_$indice[$FECHA].sql
+	pg_dump -i -h localhost -p 5432 -U postgres -F p -b -v -f "musicdb_test_$indice[$FECHA].sql" musicdb;
 	((indice++))
 done
 
